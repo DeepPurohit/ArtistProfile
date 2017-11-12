@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bhuvan Bam</string>
+    <string name="large_text">
+        Bhuvan Bam is an Indian comedian, singer, and YouTube personality.\n
+        He was born on 22 January 1995 in New Delhi, India.\n
+
+        Youtube Channel : BB Ki Vines\n
+        Subscribes : 4 million\n
+        Views : 597 million\n
+
+
+</string>
+    <string name="action_settings">Settings</string>
+</resources>
